@@ -1,0 +1,1 @@
+Machine Learning Code in MATLAB that I wrote for the Coursera: Introduction to Machine Learning course. The various branches in the repo are the weekly exercises.
